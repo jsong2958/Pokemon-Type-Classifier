@@ -1,0 +1,14 @@
+.pred-container {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.pred-container ul {
+    list-style: none; 
+    padding: 0;       
+    margin: 0;       
+    text-align: center;
+}
