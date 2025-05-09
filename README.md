@@ -4,6 +4,6 @@ A convolutional neural network performing binary classification to classify Poke
 
 The model can be called with an API created with Flask, with a React frontend for a UI.
 
-![demo](pokemon_images/demo.jpg)
+![demo](notebooks/pokemon_images/demo.jpg)
 
 
