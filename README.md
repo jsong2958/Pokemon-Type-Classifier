@@ -10,6 +10,6 @@ The model can be called with an API created with Flask, with a React frontend fo
 
 The CNN's architecture was based off [this](https://cs231n.github.io/convolutional-networks/#layers) lecture
 
-![structure](notebooks/convnet.jpg)
+![structure](notebooks/convnet.jpeg)
 
 
