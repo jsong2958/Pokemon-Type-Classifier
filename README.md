@@ -12,4 +12,8 @@ The CNN's architecture was based off [this](https://cs231n.github.io/convolution
 
 ![structure](notebooks/convnet.jpeg)
 
+INPUT -> [[CONV -> RELU]*N -> POOL?]*M -> [FC -> RELU]*K -> FC
+
+Where N = 2, M = 3, and K = 0
+
 
